@@ -4,7 +4,7 @@
 This program writes Google Chrome to autoload and when the system starts, the browser automatically starts in a minimized form, allowing you not to waste time opening it.
 
 If you have the Google Chrome browser installed in the default path, follow the steps below:
-1. Move the contents of the "auto" folder to this path:
+1. Move the contents of the "auto" folder to this path: C:\Program Files\Google\Chrome\Application\
 2. Run the file "write_autorun.vbs"
 
 If you have a different browser installed or the path is different, follow the steps below:
@@ -22,7 +22,7 @@ If you have a different browser installed or the path is different, follow the s
 Эта программа записывает Google Chrome в автозагрузку и при старте системы браузер автоматически запускается в свернутом виде, позволяя не тратить время на его открытие.
 
 Если у Вас установлен браузер Google Chrome в пути по умолчанию, выполните следующий порядок действий:
-1. Переместите содержимое папки "авто" по этому пути: 
+1. Переместите содержимое папки "auto" по этому пути: C:\Program Files\Google\Chrome\Application\
 2. Запустите файл "write_autorun.vbs"
 
 В случае, если у Вас установлен другой браузер либо отличается путь, выполните следующий порядок действий:
